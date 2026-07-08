@@ -1,0 +1,70 @@
+============================================================
+AI CONTRACT & LEGAL DOCUMENT RISK ANALYZER
+Teyzix Core Internship | Task AI-3
+============================================================
+
+DOCUMENT INFORMATION:
+------------------------------------------------------------
+File        : sample_contract.txt
+Analyzed At : 2026-07-07 07:32
+Word Count  : 279
+
+CONTRACT ANALYSIS:
+------------------------------------------------------------
+Contract Type : Service Agreement
+Parties       : XYZ Services Ltd, ABC Corporation
+Effective Date: DATE: January 1, 2026
+Expiry Date   : DATE: December 31, 2026
+
+RISK ASSESSMENT:
+------------------------------------------------------------
+Risk Score  : 58/100
+Risk Level  : Medium Risk
+Status      : Review Needed
+Total Issues: 7
+
+MISSING CLAUSES:
+------------------------------------------------------------
+DETECTED RISKS:
+------------------------------------------------------------
+  - Non Refundable Payment [High] (Confidence: 90%)
+    Contract contains non-refundable payment terms which could result in financial loss.
+
+  - Automatic Renewal [Medium] (Confidence: 85%)
+    Contract automatically renews which may result in unexpected charges.
+
+  - One Sided Termination [High] (Confidence: 88%)
+    Contract allows one sided termination without proper notice.
+
+  - Late Payment Penalty [Medium] (Confidence: 80%)
+    Contract includes late payment penalties which could increase costs.
+
+  - Arbitration Only [Medium] (Confidence: 75%)
+    Contract limits dispute resolution to arbitration only.
+
+  - Foreign Jurisdiction [Medium] (Confidence: 82%)
+    Contract governed by foreign jurisdiction which may be inconvenient.
+
+EXECUTIVE SUMMARY:
+------------------------------------------------------------
+
+    SERVICE AGREEMENT CONTRACT
+
+    This Service Agreement ("Agreement") is entered into as of
+    January 1, 2026, between ABC Corporation ("Client") and
+    XYZ Services Ltd ("Service Provider"). PARTIES INVOLVED:
+    Client: ABC Corporation, 123 Business Street, Karachi
+    Service Provider: XYZ Services Ltd, 456 Tech Avenue, Lahore
+
+    EFFECTIVE DATE: January 1, 2026
+    EXPIRY DATE: December 31, 2026
+
+    PAYMENT TERMS:
+    The Client agrees to pay Service Provider $5,000 per month. TERMI
+
+RECOMMENDATIONS:
+------------------------------------------------------------
+  1. REVIEW Non Refundable Payment: Contract contains non-refundable payment terms which could result in financial loss.
+
+  2. REVIEW One Sided Termination: Contract allows one sided termination without proper notice.
+

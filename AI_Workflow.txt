@@ -1,0 +1,40 @@
+AI PROCESSING WORKFLOW
+Task AI-3 | Teyzix Core Internship
+
+STEP 1: Document Upload
+→ User uploads PDF/DOCX/TXT file
+→ System validates document
+→ Text extracted from document
+
+STEP 2: Text Processing
+→ NLTK tokenization
+→ Sentence segmentation
+→ Text cleaning
+
+STEP 3: Contract Analysis
+→ Contract type identified
+→ Parties extracted
+→ Dates extracted
+→ Payment terms extracted
+→ Clauses identified
+
+STEP 4: Risk Detection
+→ Missing clauses detected
+→ High risk conditions found
+→ Ambiguous statements identified
+→ Risk score calculated
+
+STEP 5: AI Summary
+→ TF-IDF summarization
+→ Key obligations extracted
+→ Recommendations generated
+
+STEP 6: Semantic Search
+→ TF-IDF vectorization
+→ Cosine similarity calculated
+→ Relevant sentences returned
+
+STEP 7: Report Generation
+→ TXT report generated
+→ PDF report generated
+→ Files downloaded
